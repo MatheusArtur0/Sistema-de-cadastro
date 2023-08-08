@@ -7,3 +7,4 @@ console.log("Matheus está atualizando o arquivo")
 // testando o git pull
 console.log("Olá, estou testando o git pull, ass Matheus 2")
 console.log("Enviando para o github")
+// testando o add
